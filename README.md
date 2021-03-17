@@ -1,1 +1,1 @@
-# cnft.github.io
+# cnftglobal.github.io
