@@ -1,3 +1,3 @@
 # cnftglobal.github.io
 
-simpleledger:qrpgr4wyxmp4mnarn0frkkjex0wjdrkufsnxmc78ej
+bitcoincash:qryxxkhddjjpzuca6g4t8q082pls7v5mrc2qzzx2ex
